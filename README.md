@@ -25,14 +25,5 @@ Deep Learning · CNNs · Image Classification · Object Detection · Data Proces
 
 ---
 
-## Professional Focus
-
-* Backend and full-stack development
-* Machine learning applications
-* Embedded and systems-level software
-* Writing clean, maintainable, production-ready code
-
----
-
 Thank you for visiting my GitHub profile.
 
